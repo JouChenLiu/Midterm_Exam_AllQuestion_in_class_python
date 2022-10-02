@@ -1,2 +1,2 @@
 # Midterm_Exam_AllQuestion_in_class_python
-選修Python課程_期中上機考_全部題目
+選修Python課程_期中上機考_全部題目_抽考
